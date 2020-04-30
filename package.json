@@ -22,7 +22,7 @@
   "dependencies": {
     "level": "^6.0.1",
     "lodash": "^4.17.4",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^1.0.4",
     "through2": "^3.0.1",
     "uuid": "^3.1.0"
   },
