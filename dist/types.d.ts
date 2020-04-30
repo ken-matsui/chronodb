@@ -1,3 +1,4 @@
+/// <reference types="node" />
 export interface LevelUp {
     close(): Promise<void>;
     get(key: string): Promise<any>;

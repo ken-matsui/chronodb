@@ -1,3 +1,4 @@
+/// <reference types="node" />
 import { LevelUp, QueryOptions } from './types';
 export declare class TimeSeries<T> {
     private readonly store;
