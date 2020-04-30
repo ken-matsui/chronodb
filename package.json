@@ -24,7 +24,7 @@
     "lodash": "^4.17.4",
     "mkdirp": "^1.0.4",
     "through2": "^3.0.1",
-    "uuid": "^3.1.0"
+    "uuid": "^8.0.0"
   },
   "devDependencies": {
     "@types/jest": "^25.2.1",
